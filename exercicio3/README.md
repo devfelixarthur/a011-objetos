@@ -23,7 +23,7 @@ precisao: 100;
 
 c) Na cópia do objeto original, adicione a propriedade **`ataques`** a partir do **espalhamento** da propriedade criada para o objeto original;
 
-d) para o objeto original, adicione o ataque **“Folha Navalha”,** com **45 de dano**, **100 de precisão**, e de tipo **“Grama”**;
+d) par **“Folha Navalha”,** com **45 de dano**, **100 de precisão**, e de tipo **“Grama”**;
 
 e) para a cópia, crie o ataque **“Jato de Água”**, com **40 de dano**, **100 de precisão**, e do tipo **“Água”**;
 
